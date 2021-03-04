@@ -1,0 +1,11 @@
+[core]
+	editor = vim
+[push]
+	default = simple
+[user]
+	email = light.tsing@gmail.com
+	name = lightsing
+[credential]
+	helper = store
+[alias]
+	co = checkout
